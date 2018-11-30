@@ -1,5 +1,3 @@
-#!/bin/python3
-
 table = [[*map(int, input().split())] for y in range(6)]
 
 def i_vals(y, x):
